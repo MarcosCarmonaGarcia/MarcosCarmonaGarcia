@@ -37,5 +37,5 @@ Automatización de pruebas de seguridad y generación de reportes en formato Mar
 
 ---
 
-> Aprendiendo hacking ético con Python — hoy: scripting y CTFs
+
 
